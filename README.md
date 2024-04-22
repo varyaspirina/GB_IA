@@ -25,7 +25,7 @@
 > ![Block-diagram](Block_diagram.drawio.png)
 
 3. Вы читаете данный фаил `README.md`
-4. Программа находится в ветке [`mind`](/GB_IA/Program.cs "Открыть решение")
+4. Программа находится в ветке [`mind`](/GB_IA/Program.cs)
 
 Код программы:
 ```cs
