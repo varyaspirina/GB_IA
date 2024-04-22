@@ -22,7 +22,7 @@
 ## **Решение**
 1. Вы находитесь в созданном репозитории `GB_IA`.
 2. Блок-схема алгоритма:
-> ![Block-diagram](Block_diagram.drawio.png)
+> ![diagram.png](diagram.png)
 
 3. Вы читаете данный фаил `README.md`
 4. Программа находится в ветке [`mind`](Programm)
