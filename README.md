@@ -101,7 +101,3 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 ```
-
-5. Скриншот коммитов для подтверждения.
-
->![Screenshot of commits]()
